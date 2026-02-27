@@ -1,4 +1,4 @@
-artifact_path: file:C:/Users/sande/OneDrive/Desktop/GIT Repos/MLFlow-Basic Demo/mlruns/0/models/m-738759a164554603b1889dd98081694b/artifacts
+artifact_path: file:C:/Users/sande/OneDrive/Desktop/GIT Repos/MLFlow-Basic Demo/mlruns/1/models/m-daeac98025da4f00b13fc8f4a3892aaa/artifacts
 flavors:
   python_function:
     env:
@@ -15,9 +15,9 @@ flavors:
     sklearn_version: 1.8.0
     skops_trusted_types: null
 mlflow_version: 3.10.0
-model_id: m-738759a164554603b1889dd98081694b
-model_size_bytes: 842
-model_uuid: m-738759a164554603b1889dd98081694b
+model_id: m-daeac98025da4f00b13fc8f4a3892aaa
+model_size_bytes: 99590
+model_uuid: m-daeac98025da4f00b13fc8f4a3892aaa
 prompts: null
-run_id: 65342f28b1554810a225015f2b76cb45
-utc_time_created: '2026-02-26 04:19:44.858151'
+run_id: 7d85019840e040d1a60d232cdb4ebc22
+utc_time_created: '2026-02-27 07:20:29.325358'

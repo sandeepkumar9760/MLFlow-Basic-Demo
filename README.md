@@ -244,7 +244,7 @@ This project is open source and available under the MIT License.
 
 **Sandeep Kumar**  
 - GitHub: [@sandeepkumar9760](https://github.com/sandeepkumar9760)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/sandeepkumar9760/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/sandeep-kumar-ds/)
 
 ---
 
